@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+## Perangkat dan Kesiapan Infrastruktur
+### Apa saja perangkat yang dapat digunakan untuk Tes ini? 
 
-You can use the [editor on GitHub](https://github.com/zhebom/teknikakm/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### A. Moda Semi Daring:
+1) Server lokal:
+a. PC/Tower/Desktop (bukan laptop)
+b. Processor 4 core dan clock rate minimal 1.6 GHz (64 bit)
+c. RAM 16 GB, DDR 3
+d. Harddisk 250 GB
+e. Operating System (64 bit): Windows Server/Windows 8/
+Windows 7 /Linux Ubuntu 14.04, ChromeOS
+f. LAN CARD (NIC) 2 unit support GigaByte
+g. UPS (tahan 15 menit)
+h. Jumlah server mengikuti rasio 1:40 (1 server maksimal untuk 40 client)
+i. Cadangan 1 server.
+2) Komputer client:
+a. PC atau Laptop
+b. Monitor minimal 11 inch
+c. Processor minimal single core
+d. RAM minimal 512 MB
+e. Operating System: Windows XP/Windows 7/Windows 8/LINUX / MAC / Chrome OS
+f. Web Browser: Exambro Client
+g. Hardisk minimal tersedia 10 GB (free space)
+h. LAN Card
+i. Jumlah client mengikuti rasio 1:3 (1 client untuk 3 peserta)
+j. Cadangan minimal 10%.
+3) Jaringan internet dengan bandwidth minimal 1 Mbps
+4) Jaringan area lokal (Local Area Network - LAN):
+• Switch 10/100/1000 Mbps dengan jumlah port sesuai dengan jumlah komputer pada setiap setiap server.
+• Setiap server harus memiliki switch sendiri (tidak digabung dengan server lain).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### B. Moda Daring:
+1) Komputer client: memory 2 GB, resolusi 1024x720, windows 7ke atas, ChromeOS
+a. PC atau Laptop
+b. Monitor minimal 11 inch
+c. Processor minimal single core
+d. RAM minimal 2 GB
+e. Operating System: Windows XP/Windows 7/Windows 8/LINUX / MAC / Chrome OS
+f. Web Browser: Exambro Client
+g. Hardisk minimal tersedia 10 GB (free space)
+2) Jaringan internet: 12 Mbps untuk 15 client
 
-### Markdown
+### Bagaimana cara mengatasi kendala jika sarana pendukung pelaksanaan Asesmen Nasional kurang memadai?
+a. Satuan pendidikan dapat menumpang satuan pendidikan lain terdekat yang memiliki infrastruktur lebih memadai.
+b. Satuan pendidikan dapat meminjam komputer/laptop dari orang tua atau dari instansi lain.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Bila ada kendala sehingga tes terputus, apakah soal yang telah dikerjakan otomatis tersimpan?
+Ya. Aplikasi ANBK secara otomatis akan melakukan penyimpanan data ketika murid menekan tombol soal berikutnya. Kendala lampu padam atau putus koneksi tidak menyebabkan murid mengulang asesmen dari awal.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhebom/teknikakm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Karena keterbatasan sarana mungkinkah sekolah mengikuti Asesmen Nasional berbasis kertas dan pensil?
+Tidak. Ragam stimulus serta format soal AKM menuntut cetakan berwarna dengan jumlah halaman yang tidak sedikit disajikan dalam asesmen kertas dan pensil. Selain itu pengujian secara adaptif tidak mudah diadopsi dalam asesmen berbasis kertas dan pensil.
